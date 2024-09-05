@@ -24,3 +24,7 @@
 - PDF Creation: The quiz is added to a PDF using the PDF class. Each question and its options are added, and an "Answers" section is appended with the correct answers.
 - PDF Download: The generated PDF is saved, and a download button is presented for the user to download the quiz PDF.
 - PDF Display: The PDF is displayed within the Streamlit app using an embedded iframe.
+
+## Demo:
+![Demo](demo_img/demo1.png)
+![Demo](demo_img/demo2.png)
