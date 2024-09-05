@@ -26,5 +26,5 @@
 - PDF Display: The PDF is displayed within the Streamlit app using an embedded iframe.
 
 ## Demo:
-![Demo](demo_img/demo1.png)
-![Demo](demo_img/demo2.png)
+<img src="demo_img/demo1.png" alt="Demo" width="400" height="300" />
+<img src="demo_img/demo2.png" alt="Demo" width="400" height="300" />
